@@ -10,7 +10,7 @@
 1. [Node.js](https://nodejs.org/download/)
 2. [Mongodb](https://www.mongodb.org/downloads)
 
-### Getting Started
+### Get Everything Running
 1. Fork or download the source
 2. CD into the project directory
 3. From the project directory run.
@@ -19,7 +19,7 @@
 
 4. Then run
 
-    'npm install mongjs'
+    `npm install mongjs`
 
 5. Then run
 
